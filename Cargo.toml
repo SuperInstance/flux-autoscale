@@ -1,0 +1,7 @@
+[package]
+name = "flux-autoscale"
+version = "0.1.0"
+edition = "2021"
+description = "Auto-scaling Flux bytecode execution based on workload demand. More agents = more GPU streams. Scales up on backpressure, down on idle."
+license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/flux-autoscale"
